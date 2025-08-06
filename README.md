@@ -49,7 +49,7 @@ Each dataset is organized into its own directory with:
 
 ## 📎 Repository Link
 
-Explore all datasets here 👉 [**Public Datasets on GitHub**](https://github.com/saikotislam07/DataSets)
+Explore all datasets here 👉 [**Datasets on GitHub**](https://github.com/saikotislam07/DataSets)
 
 ---
 
